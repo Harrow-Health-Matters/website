@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/vhm.png"
+image = "img/vhm.jpg"
 date = "2020"
 title = "Vanaspati Herbal Medicine"
 weight = 0

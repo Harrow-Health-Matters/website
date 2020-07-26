@@ -16,8 +16,8 @@ buildDrafts = true
   description = "Describe your website"
   copyright = "&copy;2020 Harrow Health Matters"
   sidebarAbout = [
-    "Harrow Health Matters is a facebook based community for...",
-    "Second Line"
+    "Mission Statement",
+    "Harrow Health Matters will always have your best health interests at heart and will collaborate with other health, wellbeing and fitness professionals and experts to support our Community."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a

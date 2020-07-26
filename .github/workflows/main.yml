@@ -15,8 +15,7 @@ jobs:
         extended: true
 
     - name: build
-      run: |
-        hugo
+      run: hugo
     
     - name: push
       run: |
@@ -27,6 +26,6 @@ jobs:
         git init
         git add .
         git commit -m deploy
-        git push --force https://overclockedllama:$GITHUB_TOKEN@github.com/overclockedllama/harrowhealthmatters.git master:gh-pages
+        git push --force git@github.com:overclockedllama/harrowhealthmatters.git master:gh-pages
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

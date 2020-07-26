@@ -1,0 +1,32 @@
+name: build and publish site
+on:
+  push:
+    branches: [ master ]
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      
+    - name: Hugo setup
+      uses: peaceiris/actions-hugo@v2.4.12
+      with:
+        #hugo-version: # optional, default is latest
+        extended: true
+
+    - name: build
+      run: |
+        hugo
+    
+    - name: push
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+        cd public
+        echo "harrowhealthmatters.com" > CNAME
+        git init
+        git add .
+        git commit -m deploy
+        git push --force https://overclockedllama:$GITHUB_TOKEN@github.com/overclockedllama/harrowhealthmatters.git master:gh-pages
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

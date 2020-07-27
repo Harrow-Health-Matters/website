@@ -53,8 +53,8 @@ buildDrafts = true
   url = "about/"
 
   [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
+  name = "Sign Up"
+  url = "signup/"
 
   [params.social]
   facebook      = "https://www.facebook.com/groups/HarrowHealthMatters/"

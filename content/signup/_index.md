@@ -1,9 +1,7 @@
 ---
 date: "2020"
-title: "Get in touch"
+title: "Subscribe to our Newsletter"
 _build:
  list: false
  render: true
 ---
-
-# Contact

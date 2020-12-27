@@ -1,7 +1,7 @@
 +++
 title = "Nirmala Iyer"
 image = "img/nirmala_iyer.jpg"
-description = "Brian Jacobs is a registered clinical hypnotherapist, as well as a hypnotherapy trainer."
+description = "I started my Yoga Journey a little over a decade ago and after 4 years of practicing as a student, I wanted to deepen my understanding of Yoga as a therapeutic way of life, egged on by the lower back pain that a few family members (across age groups) were dealing with."
 
 showonlyimage = false
 draft = false

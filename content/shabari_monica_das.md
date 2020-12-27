@@ -1,21 +1,29 @@
 +++
 title = "Shabari Monica Das - Green Beauty Lifestyle Consultant"
 image = "img/shabari_monica_das.jpg"
-description = "Shabari Das is a Green Beauty Lifestyle Consultant. She has been running her business for 6 years, therefore, has extensive knowledge and experience about natural, vegan and eco-friendly products."
+description = "Shabari Das is a Green Beauty Lifestyle Consultant."
 
 showonlyimage = false
 draft = false
 date = "2020"
-weight = 2
+weight = 3
 +++
 
-Shabari Das is a Green Beauty Lifestyle Consultant. She has been running her business for 6 years, therefore, has extensive knowledge and experience about natural, vegan and eco-friendly products.
+Shabari Das is a Green Beauty Lifestyle Consultant.
 
-She has been vegan for nearly 23 years, and so is highly passionate and knowledgeable about the subject of veganism as an ethical and cruelty-free way of living and can advise people on the lifestyle, which includes choosing vegan and cruelty-free skincare and cosmetics.
+You know how a lot of people, especially during the current situation, are thinking about the impact of their choices but don't know what to do or where to start.
 
-She has a good understanding of skin issues and the harsh chemicals that should be avoided, which are bad for your skin health. Shabari has also given talks about chemical-free living to various audiences.
+Shabari helps people who would like to live a greener, healthier, more compassionate, and ethical lifestyle by advising them on what changes they can make, what to look out for and what to avoid, and assisting them in choosing natural, chemical-free, vegan, eco-friendly, and cruelty-free products.
 
-You may get in touch with Shabari at:
+She has been vegan for over 23 years, and so is highly knowledgeable about veganism as an ethical and cruelty-free way of living. Veganism is not just a diet. It's a lifestyle where you exclude the use of animals and animal ingredients as far as possible and practicable, including what you eat, what you wear, what you use, what you apply, and so on.
 
-- LoveTropic@gmail.com
-- https://www.facebook.com/shabari.monica.das
+Shabari has been running her business for 6 years, therefore, has exceptional expertise regarding natural, vegan and eco-friendly products and their ingredients, from skincare and cosmetics to everyday products and household products.
+
+She has a thorough understanding of harsh chemicals that should be avoided, which are bad for your skin health and general health.
+
+Shabari has also given talks about chemical-free living and veganism to various audiences, and is available to give virtual talks to small groups and organisations.
+
+You may get in touch with Shabari at LoveTropic@gmail.com
+
+You may also follow her on her Facebook page at:
+www.facebook.com/LoveTropic

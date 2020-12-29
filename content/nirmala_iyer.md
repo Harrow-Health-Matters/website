@@ -39,3 +39,4 @@ my journey online:
 2. My YouTube Channel - "Yoga Life Global with Nirmala Iyer" - https://www.youtube.com/
 channel/UCI3UaYkIC3MrnjoNWJ2vM7A/about
 3.	My e-mail: yogalifeglobalnirmalaiyer@gmail.com
+4. Website: https://nirmalasyoga.wordpress.com

@@ -29,7 +29,8 @@ She has worked regularly with people with disabilities, injured people and anyon
 
 Warm Regards,
 Lisa Morris
-07963 833188
-Lisa@morris.uk.com
-Www.lisayoga.co.uk
-https://m.facebook.com/Iyengaryogalisa/
+
+- 07963 833188
+- Lisa@morris.uk.com
+- Www.lisayoga.co.uk
+- https://m.facebook.com/Iyengaryogalisa/

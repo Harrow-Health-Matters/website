@@ -20,5 +20,5 @@ If you are looking for a wholefood plant-based nutritionist, can get in touch wi
 - Personal Facebook link: https://www.facebook.com/jill.swyers.1
 - Business Facebook link: https://www.facebook.com/JillSwyers/
 - Twitter: https://twitter.com/JillSwyers
-- Linkedin: https://www.linkedin.com/…/Jill-Swyers-LivingFoodsForHealth/
+- Linkedin: https://uk.linkedin.com/in/jill-swyers-livingfoodsforhealth
 - Website: www.jillswyers.com

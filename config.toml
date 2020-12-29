@@ -31,7 +31,7 @@ buildDrafts = true
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "varsha@vanaspati.co.uk"
+  email = "info@harrowhealthmatters.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -59,7 +59,7 @@ buildDrafts = true
   [params.social]
   facebook      = "https://www.facebook.com/groups/HarrowHealthMatters/"
   # googleplus    = "full profile url in googleplus"
-  email         = "varsha@vanaspati.co.uk"
+  email         = "info@harrowhealthmatters.com"
   # twitter       = "full profile url in twitter"
   # linkedin      = "full profile url in linkedin"
   # stackoverflow = "full profile url in stackoverflow"

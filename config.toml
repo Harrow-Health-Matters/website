@@ -13,8 +13,8 @@ buildDrafts = true
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "blue"
-  description = "Describe your website"
-  copyright = "&copy;2020 Harrow Health Matters"
+  description = "Harrow Health Matters will always have your best health interests at heart and will collaborate with other health, wellbeing and fitness professionals and experts to support our Community..."
+  copyright = "&copy;2021 Harrow Health Matters"
   sidebarAbout = [
     "Mission Statement",
     "Harrow Health Matters will always have your best health interests at heart and will collaborate with other health, wellbeing and fitness professionals and experts to support our Community."

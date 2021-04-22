@@ -1,7 +1,12 @@
 /* your styles go here */
 h1 {
-    text-align: left;
+  text-align: left;
 }
 .img-responsive {
-    margin: 0;
+  /* margin: 0; */
+  max-height: 300px;
+}
+
+.box-masonry-image {
+  background: transparent !important;
 }

@@ -26,3 +26,17 @@ collections:
           min: 1,
         }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: "pages"
+    label: "Pages"
+    files:
+      - label: "About Page"
+        name: "about"
+        file: "content/about/_index.md"
+        fields:
+          - { name: "date", widget: "hidden", default: "2020" }
+          - { name: "title", widget: "hidden", default: "More About Us" }
+          - name: "_build"
+            widget: "hidden"
+            fields:
+              - { name: "list", widget: "hidden", default: false }
+              - { name: "render", widget: "hidden", default: true }

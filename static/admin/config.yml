@@ -3,6 +3,8 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 media_folder: static/img
 public_folder: /img
+site_url: https://www.harrowhealthmatters.com/
+logo_url: https://www.harrowhealthmatters.com/img/hhm.jpg
 collections:
   - name: "people"
     label: "People"

@@ -1,7 +1,7 @@
 ---
 title: Miriam Feen - Lactation Consultant IBCLC
 image: /img/miriam-feen.jpg
-description: " **Lactation Consultant IBCLC**"
+description: Lactation Consultant IBCLC
 showonlyimage: false
 draft: false
 date: "2020"

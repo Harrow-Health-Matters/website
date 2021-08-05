@@ -2,7 +2,7 @@
 title: Miriam Feen - Lactation Consultant IBCLC
 image: /img/miriam-feen.jpg
 description: "Lactation Consultant IBCLC  Miriam has over 15 years experience
-  supporting local women with breastfeeding and weaning.  "
+  supporting local women with breastfeeding and weaning.   "
 showonlyimage: false
 draft: false
 date: "2020"

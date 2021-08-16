@@ -2,8 +2,9 @@
 title: Hasina Patel Bsc (Hons) MCSP   Specialist Chartered Physiotherapist (MSK/
   Sports/Orthopaedics)
 image: /img/fdc6dd87-9ebf-42c4-8b0f-81459ea325a4.jpeg
-description: Hasina  10 years of Physiotherapy – NHS recommended specialist in
-  assessment and treatment of neuromusculoskeletal dysfunctions of the body.
+description: Hasina has 10 years of Physiotherapy experience – NHS recommended
+  specialist in assessment and treatment of neuromusculoskeletal dysfunctions of
+  the body.
 showonlyimage: false
 draft: false
 date: "2020"

@@ -22,6 +22,6 @@ She offers private health consultations in her Stanmore clinic and via video. Yo
 Harrow Health Matters was founded by Varsha to support her community to get well and stay well.\
 You can connect with Varsha in several ways: 
 
-* www.vanaspati.co.uk
-* varsha@vanaspati.co.uk
+* [www.vanaspati.co.uk](https://www.vanaspati.co.uk)
+* [varsha@vanaspati.co.uk](mailto:varsha@vanaspati.co.uk)
 * [07730 979 400](tel://+447730979400)

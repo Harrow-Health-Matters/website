@@ -26,7 +26,7 @@ Hobbies include painting, clay hand-made decoration, Dreamcatchers, tapestries, 
 Facebook:
 <https://m.facebook.com/NRTherapies/>
 \
-Website: [www.NRTherapies.com](www.NRTherapies.com)
+Website: [www.NRTherapies.com](https://www.nrtherapies.com/)
 \
 LinkedIn:
 <https://www.linkedin.com/mwlite/in/nilamshah>

@@ -31,4 +31,4 @@ Website: [www.NRTherapies.com](https://www.nrtherapies.com/)
 LinkedIn:
 <https://www.linkedin.com/mwlite/in/nilamshah>
 \
-Mobile no. 07815102590
+Mobile no. [07815102590](07815102590)

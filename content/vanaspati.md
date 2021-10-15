@@ -1,5 +1,5 @@
 ---
-title: Varsha Soneji BSc (Hons) MNIMH - Medical Herbalist at Vanaspati Herbal Medicine
+title: "Varsha Soneji BSc (Hons) MNIMH - Medical Herbalist "
 image: img/vhm.jpg
 description: Varsha is a Medical Herbalist with over 31 years of experience in
   the field of complementary medicine and a degree in Herbal Medicine

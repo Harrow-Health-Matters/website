@@ -25,7 +25,10 @@ Hobbies include painting, clay hand-made decoration, Dreamcatchers, tapestries, 
 \
 Facebook:
 <https://m.facebook.com/NRTherapies/>
+\
 Website: [www.NRTherapies.com](www.NRTherapies.com)
+\
 LinkedIn:
 <https://www.linkedin.com/mwlite/in/nilamshah>
+\
 Mobile no. 07815102590

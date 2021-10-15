@@ -1,14 +1,12 @@
-+++
-title = "Shabari Monica Das - Green Beauty Lifestyle Consultant"
-image = "img/shabari_monica_das.jpg"
-description = "Shabari Das is a Green Beauty Lifestyle Consultant."
-
-showonlyimage = false
-draft = false
-date = "2020"
-weight = 3
-+++
-
+---
+title: Shabari Monica Das - Green Beauty Lifestyle Consultant
+image: img/shabari_monica_das.jpg
+description: Shabari Das is a Green Beauty Lifestyle Consultant.
+showonlyimage: false
+draft: false
+date: "2020"
+weight: 3
+---
 Shabari Das is a Green Beauty Lifestyle Consultant.
 
 You know how a lot of people, especially during the current situation, are thinking about the impact of their choices but don't know what to do or where to start.
@@ -23,7 +21,7 @@ She has a thorough understanding of harsh chemicals that should be avoided, whic
 
 Shabari has also given talks about chemical-free living and veganism to various audiences, and is available to give virtual talks to small groups and organisations.
 
-You may get in touch with Shabari at LoveTropic@gmail.com
+You may get in touch with Shabari at [LoveTropic@gmail.com](LoveTropic@gmail.com)
 
 You may also follow her on her Facebook page at:
-www.facebook.com/LoveTropic
+[www.facebook.com/LoveTropic](https://www.facebook.com/LoveTropic)

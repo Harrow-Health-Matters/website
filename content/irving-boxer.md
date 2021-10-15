@@ -1,7 +1,11 @@
 ---
-title: Irving Boxer
+title: "Irving Boxer DO ND LCH MRN "
 image: /img/irving-boxer.jpeg
-description: "Irving S Boxer DO ND LCH MRN "
+description: The past 40 years have involved a constant acquisition of knowledge
+  from being in practise and from continuing professional development which has
+  seen me enhance and refresh my various Osteopathic techniques. Along the way I
+  have also studied Nutrition, Kinesiology, Hydrotherapy and Counselling and the
+  learning never ends.
 showonlyimage: false
 draft: false
 date: "2020"

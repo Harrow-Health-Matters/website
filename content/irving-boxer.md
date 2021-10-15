@@ -11,6 +11,8 @@ weight: 2
 
 I began my journey in Osteopathy at the age of 19 when my mother suggested it as a profession when I was leaving school, so in 1975 I enrolled at the College of Naturopathy & Osteopathy (now BCOM). My father must have been overjoyed because he always believed in a Nature Cure way of life and here was I becoming an Osteopath & Naturopath. In 1985 I also became a Homeopath.
 
+As a Osteopath, Naturopath and Homeopath, I believe that the body has the ability to heal itself, and thus all my treatments aim to assist the body's repair process and return the body to a normal state of functioning, whether there are structural or general health problems.
+
 Email: [info@irvingboxer.com](:info@irvingboxer.com)
 
 Call:  [0208 954 2254](<0208 954 2254>)

@@ -9,7 +9,7 @@ description: Sara qualified as a licenced massage therapist and aromatherapist
 showonlyimage: false
 draft: false
 date: "2020"
-weight: 2
+weight: 3
 ---
 Sara qualified as a licenced massage therapist and aromatherapist in 1996 when she realised her calling in life and started on her journey to make a difference in people’s lives by putting her energy into learning advanced techniques to enable her to rid , or help people, diminish their pains.
 

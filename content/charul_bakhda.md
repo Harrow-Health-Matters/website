@@ -11,6 +11,6 @@ More info coming soon
 
 <!--StartFragment-->
 
-<https://www.gemhance.co.uk>
+[www.gemhance.co.uk](https://www.gemhance.co.uk)
 
 <!--EndFragment-->

@@ -1,5 +1,5 @@
 ---
-title: "Irving Boxer DO ND LCH MRN "
+title: Irving Boxer - Osteopath & Stress Therapist
 image: /img/irving-boxer.jpeg
 description: The past 40 years have involved a constant acquisition of knowledge
   from being in practise and from continuing professional development which has

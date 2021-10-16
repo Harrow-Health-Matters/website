@@ -5,7 +5,7 @@ description: Shabari Das is a Green Beauty Lifestyle Consultant.
 showonlyimage: false
 draft: false
 date: "2020"
-weight: 3
+weight: 2
 ---
 Shabari Das is a Green Beauty Lifestyle Consultant.
 

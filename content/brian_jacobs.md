@@ -14,5 +14,5 @@ He has been awarded the Senior Qualification in Hypnotherapy Practice (SQHP) fro
 
 Brian was trained by Paul McKenna in NLP (Neuro Linguistic Programming) and he uses a combination of techniques to help his clients improve their lives in the shortest possible time.
 
-* <https://www.hypnoticsolutions.co.uk>
-* <https://www.facebook.com/brianmjacobs>
+* [www.hypnoticsolutions.co.uk](https://www.hypnoticsolutions.co.uk)
+* [www.facebook.com/brianmjacobs](https://www.facebook.com/brianmjacobs)

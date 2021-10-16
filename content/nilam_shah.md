@@ -23,12 +23,10 @@ Nilam also offers baby massage, and advice on traditional Gujarati meals for new
 
 Hobbies include painting, clay hand-made decoration, Dreamcatchers, tapestries, cross stitch, knitting and many more.\
 \
-Facebook:
-<https://m.facebook.com/NRTherapies/>
+Facebook:  [m.facebook.com/NRTherapies/](https://m.facebook.com/NRTherapies/)
 \
 Website: [www.NRTherapies.com](https://www.nrtherapies.com/)
 \
-LinkedIn:
-<https://www.linkedin.com/mwlite/in/nilamshah>
+LinkedIn:  [www.linkedin.com/mwlite/in/nilamshah](https://www.linkedin.com/mwlite/in/nilamshah)
 \
 Mobile no. [07815102590](07815102590)

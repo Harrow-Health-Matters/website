@@ -21,7 +21,7 @@ After having also worked at a local GP practice, Sara now runs her own clinic in
 
 At The Disability Foundation based at Stanmore Orthopaedic Hospital, Sara was a valuable and dedicated member of the team for nearly 15 years. She has an excellent knowledge of her field, gaining further experience on a daily basis though her work for TDF where she regularly saw patients with a range of medical conditions and physical and mental disabilities.
 
-* https://www.facebook.com/sara.cordell.9
-* www.saracordell.co.uk
+* [www.facebook.com/sara.cordell.9](https://www.facebook.com/sara.cordell.9)
+* [www.saracordell.co.uk](https://www.saracordell.co.uk/)
 * SARA CORDELL M.I.F.A
-* info@saracordell.co.uk
+* [info@saracordell.co.uk](info@saracordell.co.uk)

@@ -21,6 +21,6 @@ Rosalie has a special interest in womens' health (including pregnancy, infertili
 
 She has undertaken Ilana Machover's intensive specialist training to teach Alexander Technique for pregnancy and birth, offering both individual sessions and classes for small groups.
 
-https://www.edgwareacupuncture.co.uk/ 
+[www.edgwareacupuncture.co.uk](https://www.edgwareacupuncture.co.uk/)
 
 <!--EndFragment-->

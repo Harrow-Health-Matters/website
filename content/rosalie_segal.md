@@ -17,7 +17,7 @@ She was also privileged to undertake her Alexander Technique training with ren
 
 Women's Health
 
-Rosalie has a special interest in womens' health (including pregnancy, infertility and gynecological issues) and has completed extensive post-graduate Chinese Medicine training in this field including an obstetrics and gynaecology diploma with Dr. Trevor Wing (where she is an associate practitioner). Rosalie is on the steering  of the [Acupuncture Childbirth Team London (ACT),](http://www.actlondon.net/directory/listing/rosalie-segal) a dedicated group of acupuncture practitioners working in London committed to supporting women's experience through all stages of conception, pregnancy, childbirth and postnatal.
+Rosalie has a special interest in womens' health (including pregnancy, infertility and gynaecological issues) and has completed extensive post-graduate Chinese Medicine training in this field including an obstetrics and gynaecology diploma with Dr. Trevor Wing (where she is an associate practitioner). Rosalie is on the steering  of the [Acupuncture Childbirth Team London (ACT),](http://www.actlondon.net/directory/listing/rosalie-segal) a dedicated group of acupuncture practitioners working in London committed to supporting women's experience through all stages of conception, pregnancy, childbirth and postnatal.
 
 She has undertaken Ilana Machover's intensive specialist training to teach Alexander Technique for pregnancy and birth, offering both individual sessions and classes for small groups.
 

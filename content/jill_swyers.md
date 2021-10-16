@@ -8,7 +8,7 @@ description: Jill has worked in the food industry for more than 40 years, having
 showonlyimage: false
 draft: false
 date: "2020"
-weight: 2
+weight: 3
 ---
 Jill has worked in the food industry for more than 40 years, having worked in hotels, restaurants and events catering in various countries round the world, as well as running her own successful London-based catering company.
 

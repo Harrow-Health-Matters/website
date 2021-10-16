@@ -6,7 +6,7 @@ description: "Lactation Consultant IBCLC  Miriam has over 15 years experience
 showonlyimage: false
 draft: false
 date: "2020"
-weight: 2
+weight: 3
 ---
 **Miriam is a Lactation Consultant IBCLC** supporting parents with all aspects of infant feeding from antenatal period to whenever they choose to end their breastfeeding journey, including re-lactation, induced lactation, combination feeding just to name a few.
 

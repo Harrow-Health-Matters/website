@@ -17,7 +17,6 @@ The first two services are suitable for pregnancy, babies, children, teenagers a
 
 To read what clients have to say about the work please view: Google, Facebook, business and website. 
 
-* spaciouswingstherapies@gmail.com
-* www.SpaciousWingsTherapies.com
-* www.facebook.com/SpaciousWingsTherapies/
-* 07588 873420
+* [spaciouswingstherapies@gmail.com](spaciouswingstherapies@gmail.com)
+* [www.SpaciousWingsTherapies.com](https://spaciouswingstherapies.com/wp-content/cache/all/index.html)
+* [07588 873420](<07588 873420>)

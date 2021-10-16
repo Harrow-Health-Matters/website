@@ -16,6 +16,6 @@ She works one to one with local mums as well to give that tailored experience.
 
 Miriam has been supporting families for nearly 15 years with all aspects of infant feeding from the antenatal period to wherever they choose to end their feeding journey. She is particularly passionate about antenatal education. Knowledge is power and parents should have all the information to make an informed decision.
 
-Check out her website here:  https://www.thelactationcentre.co.uk/
+Check out her website here:  [www.thelactationcentre.co.uk](https://www.thelactationcentre.co.uk/)
 
-Contact:  07731 690 503
+Contact:  [07731 690 503](<07731 690 503>)

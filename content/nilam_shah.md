@@ -8,7 +8,7 @@ description: Nilam Shah, of NR Holistic Therapies, is an experienced
 showonlyimage: false
 draft: false
 date: "2020"
-weight: 2
+weight: 1
 ---
 Nilam Shah, of NR Holistic Therapies, is an experienced Reflexologist (Bailey School of Reflexology) and a Reiki Master. She uses a holistic approach, combining both the mental and physical aspects, as mental thoughts are closely linked to physical ailments of the body.
 

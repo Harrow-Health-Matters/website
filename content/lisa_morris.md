@@ -1,5 +1,5 @@
 ---
-title: Lisa Morris
+title: "Lisa Morris - Iyengar yoga teacher "
 image: img/lisa_morris.jpg
 description: Lisa teaches Iyengar yoga from a purpose-built specialist studio in
   Bushey Heath, near Watford, Hertfordshire.

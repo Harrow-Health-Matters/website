@@ -7,7 +7,7 @@ description: Rakhee Shah is a holistic therapist, who gained her qualifications
 showonlyimage: false
 draft: false
 date: "2020"
-weight: 2
+weight: 3
 ---
 Rakhee Shah is a holistic therapist, who gained her qualifications over 20 years ago. She practices reflexology, aromatherapy and has completed the British nutrition foundation course. She likes to help and inspire people to achieve optimal balance in order to live a higher quality of life.
 

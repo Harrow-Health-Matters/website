@@ -1,14 +1,15 @@
-+++
-title = "Lalit Sodha - Chiropractor"
-image = "img/lalit_sodha.jpg"
-description = "With 30 years of clinical experience in private practice, and having treated thousands of patients, not only in the UK, but across the globe, Lalit Sodha D.C, believes in his mission statement of ‘Health by choice, and not by chance’"
-
-showonlyimage = false
-draft = false
-date = "2020"
-weight = 2
-+++
-
+---
+title: Lalit Sodha - Chiropractor
+image: img/lalit_sodha.jpg
+description: With 30 years of clinical experience in private practice, and
+  having treated thousands of patients, not only in the UK, but across the
+  globe, Lalit Sodha D.C, believes in his mission statement of ‘Health by
+  choice, and not by chance’
+showonlyimage: false
+draft: false
+date: "2020"
+weight: 2
+---
 With 30 years of clinical experience in private practice, and having treated thousands of patients, not only in the UK, but across the globe, Lalit Sodha D.C, believes in his mission statement of ‘Health by choice, and not by chance’.
 
 His practice in Eastcote hosts a well-trained team of Chiropractors, Osteopaths, Massage Therapists, and a brilliant support team (who are the life of the clinic!). With a warm and welcoming atmosphere, every patient is treated like a member of the family.
@@ -23,4 +24,4 @@ Over the years, he has treated numerous singers, dancers and performers at Wembl
 
 He regularly hosts virtual sessions, and gives talks on health and well-being, in particular, spinal health and posture. A passionate public speaker, he also enjoys MCing live on online platforms to guests from all around the globe, from athletes to businessmen, celebrity actors, singers, motivational speakers, celebrity nutritionists and health practitioners.
 
-- https://www.facebook.com/lalit.sodha.98
+* [www.facebook.com/lalit.sodha.98](https://www.facebook.com/lalit.sodha.98)

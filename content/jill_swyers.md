@@ -18,8 +18,8 @@ As a Teacher, Consultant and Chef, Jill's main priority is Food Literacy – jus
 
 If you are looking for a wholefood plant-based nutritionist, can get in touch with Jill through the following ways:
 
-* Personal Facebook link: https://www.facebook.com/jill.swyers.1
-* Business Facebook link: https://www.facebook.com/JillSwyers/
-* Twitter: https://twitter.com/JillSwyers
-* Linkedin: https://uk.linkedin.com/in/jill-swyers-livingfoodsforhealth
+* Personal Facebook link: [www.facebook.com/jill.swyers.1](https://www.facebook.com/jill.swyers.1)
+* Business Facebook link: [www.facebook.com/JillSwyers/](https://www.facebook.com/JillSwyers/)
+* Twitter: [@JillSwyers](https://twitter.com/JillSwyers)
+* LinkedIn: [jill-swyers-livingfoodsforhealth](https://uk.linkedin.com/in/jill-swyers-livingfoodsforhealth)
 * Website: [www.jillswyers.com](https://www.jillswyers.com/)

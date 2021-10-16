@@ -1,14 +1,14 @@
-+++
-title = "Varsha Hathi"
-image = "img/varsha_hathi.jpg"
-description = "Divorce & Confidence Coach, empowers and supports women who are either contemplating divorce, or already on that path.  Providing them with a mechanism that is simple, honest, and caring"
-
-showonlyimage = false
-draft = false
-date = "2020"
-weight = 3
-+++
-
+---
+title: Varsha Hathi
+image: img/varsha_hathi.jpg
+description: Divorce & Confidence Coach, empowers and supports women who are
+  either contemplating divorce, or already on that path.  Providing them with a
+  mechanism that is simple, honest, and caring
+showonlyimage: false
+draft: false
+date: "2020"
+weight: 3
+---
 Divorce & Confidence Coach, empowers and supports women who are either contemplating divorce, or already on that path. Providing them with a mechanism that is simple, honest, and caring.
 
 As we know, leaving a marriage is no way an easy option, for some it will seem impossible to do, let alone making the decision.
@@ -21,24 +21,24 @@ It does not end there, Varsha also builds confidence within you, and by doing so
 
 How can I help
 
-- Dealing with the loss of a relationship
-- Managing family, in-laws, and ex-partner relationships
-- Co-parenting
-- Building your confidence, clarity, and purpose
-- Dealing with financial matters
-- Finding yourself, your identity and purpose
-- Practical and emotional support
-- Post-divorce dating and romance
+* Dealing with the loss of a relationship
+* Managing family, in-laws, and ex-partner relationships
+* Co-parenting
+* Building your confidence, clarity, and purpose
+* Dealing with financial matters
+* Finding yourself, your identity and purpose
+* Practical and emotional support
+* Post-divorce dating and romance
 
 Coaching
 
-- 1-to-1
-- Online - Skype/Zoom
-- In Person Face-to-face
-- Workshops
-- 1st Coaching Session FREE
+* 1-to-1
+* Online - Skype/Zoom
+* In Person Face-to-face
+* Workshops
+* 1st Coaching Session FREE
 
 Contact
 
-- Email – Varsha@varshahathi.com
-- Phone - 07742 516 020
+* Email – [Varsha@varshahathi.com](Varsha@varshahathi.com)
+* Phone - [07742 516 020](<07742 516 020>)

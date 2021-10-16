@@ -7,7 +7,7 @@ description: Manish is a highly experienced and knowledgeable Coach. His passion
 showonlyimage: false
 draft: false
 date: "2020"
-weight: 2
+weight: 3
 ---
 Manish is a highly experienced and knowledgeable Coach. His passion is to provide the very best for his clients.
 

@@ -16,8 +16,6 @@ Hasina’s second passion is to address health inequalities, and helped take car
 
 She guides clients to achieve their goals. Her Physiotherapy style is coaching to empower her clients to feel confident about exercising.
 
- 
-
 Services:
 
 **Physiotherapy:** 1-2-1 online or face to face
@@ -28,12 +26,10 @@ Services:
 
 **Personalised exercise/ health and wellbeing packages:** Contact if you wish to organise private group/ work team bookings for talks, webinars or exercise sessions.
 
- 
-
 Contact/ Follow:
 
-Instagram: @hasinaphys10
+Instagram: [@hasinaphys10](https://www.instagram.com/hasinaphys10/)
 
-Fb: HasinaPhysio
+Fb: [HasinaPhysio](https://www.facebook.com/HasinaPhysio/)
 
 Website: [hasinaphysio.com](http://hasinaphysio.com/)

@@ -6,7 +6,7 @@ description: Brian Jacobs is a registered clinical hypnotherapist, as well as a
 showonlyimage: false
 draft: false
 date: "2020"
-weight: 2
+weight: 3
 ---
 Brian Jacobs is a registered clinical hypnotherapist, as well as a hypnotherapy trainer. He has been in practice for 20 years and has offices in Finchley Central (in North London) as well as in Harley Street (Central London). He sees clients to help them with behavioural change (for example, help to stop smoking, control weight, stop nail biting) and emotional change (including reducing fears and anxiety, overcoming phobias, and gaining confidence).
 

@@ -8,7 +8,7 @@ description: With 30 years of clinical experience in private practice, and
 showonlyimage: false
 draft: false
 date: "2020"
-weight: 2
+weight: 3
 ---
 With 30 years of clinical experience in private practice, and having treated thousands of patients, not only in the UK, but across the globe, Lalit Sodha D.C, believes in his mission statement of ‘Health by choice, and not by chance’.
 

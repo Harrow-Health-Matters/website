@@ -1,7 +1,10 @@
 ---
-title: "Seema Shah "
+title: Seema Shah - holistic-minded dentist (BDS), health coach and yoga instructor
 image: /img/94bd0396-4d05-4646-bdfa-1d595f6fa295.jpeg
-description: Holistic-minded dentist (BDS), health coach and yoga instructor
+description: Seema Shah has worked in healthcare for over a decade as a dentist
+  in UK. Her interest in holistic health made her explore various fields over
+  the years, and has enabled her to come up with a unique plant-based holistic
+  health coaching approach.
 showonlyimage: false
 draft: false
 date: "2020"

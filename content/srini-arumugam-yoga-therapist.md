@@ -7,7 +7,7 @@ description: "Srini Arumugam is an E-RYT500 Registered Yoga Teacher with Yoga
 showonlyimage: false
 draft: false
 date: "2020"
-weight: 1
+weight: 3
 ---
 <!--StartFragment-->
 

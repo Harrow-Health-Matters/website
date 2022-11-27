@@ -5,7 +5,7 @@ description: Reflexologist, holistic and facial therapist
 showonlyimage: false
 draft: false
 date: "2020"
-weight: 2
+weight: 3
 ---
 I am a fully qualified, experienced and insured Reflexologist, holistic and facial therapist. I am a MAR member, gaining my qualifications at The Association of Reflexology, London School of Reflexology and Middlesex School of Complementary Therapies (MSCM).    
 

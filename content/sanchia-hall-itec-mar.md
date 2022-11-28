@@ -1,7 +1,8 @@
 ---
 title: Sanchia Hall ITEC MAR Reflexologist, holistic and facial therapist
 image: /img/52de2e20-1244-402c-a5a5-c61ab63461ba.jpeg
-description: a
+description: Sanchia is a fully qualified, experienced and insured
+  Reflexologist, holistic and facial therapist.
 showonlyimage: false
 draft: false
 date: "2020"

@@ -9,7 +9,7 @@ weight: 3
 ---
 I am a fully qualified, experienced and insured Reflexologist, holistic and facial therapist. I am a MAR member, gaining my qualifications at The Association of Reflexology, London School of Reflexology and Middlesex School of Complementary Therapies (MSCM).    
 
-Reflexology is a deeply calming and rebalancing meriden line and parasympathetic nervous system soothing therapy using foot accupressure.   
+Reflexology is a deeply calming and rebalancing meridian line and parasympathetic nervous system soothing therapy using foot acupressure.   
 
 I also offer energy/sound therapy, holistic massage, ear candle therapy. rejuvenation facials (includes facial reflexology) and meditation.   I working intuitively with a mind, body and soul understanding. Each session can be tailored to your needs, combining my therapies where of benefit to you.   
 

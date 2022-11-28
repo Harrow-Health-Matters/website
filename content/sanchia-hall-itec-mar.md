@@ -1,7 +1,7 @@
 ---
-title: "Sanchia Hall ITEC MAR "
+title: Sanchia Hall ITEC MAR Reflexologist, holistic and facial therapist
 image: /img/52de2e20-1244-402c-a5a5-c61ab63461ba.jpeg
-description: Reflexologist, holistic and facial therapist
+description: a
 showonlyimage: false
 draft: false
 date: "2020"
@@ -19,8 +19,8 @@ Tel: 07958281863
 
 Web: www.headtotoeharmony.co.uk 
 
-FB: http://www.facebook.com/Headtotoeharmony Insta: 
+FB: http://www.facebook.com/Headtotoeharmony 
 
-Www.instagram.com/sanchia_headtotoeharmony  
+Insta: www.instagram.com/sanchia_headtotoeharmony  
 
 Tik Tok: www.tiktok.com/@headtotoeharmony?_t=8WarUJ

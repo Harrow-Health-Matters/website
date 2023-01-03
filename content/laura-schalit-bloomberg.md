@@ -1,5 +1,5 @@
 ---
-title: Laura Schalit Bloomberg
+title: Laura Schalit Bloomberg - Specialist Fertility Coach & Holistic Therapist
 image: /img/laura-schalit-bloomberg.jpg
 description: Specialist Fertility Coach & Holistic Therapist
 showonlyimage: false

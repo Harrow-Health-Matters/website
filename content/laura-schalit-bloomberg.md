@@ -17,3 +17,17 @@ Laura is a Specialist Fertility Coach & Holistic Therapist. By using a combinat
 <!--StartFragment-->
 
 > > > Laura is also a HypnoBirthing Practitioner. Her clients learn specific self-hypnosis, breathing and relaxation techniques to help them have a calm and enjoyable pregnancy & birthing experience. The numerous benefits of the programme also continue after the birth, including helping couples to bond with their new-born baby and helping to develop good sleeping patterns.
+
+<!--StartFragment-->
+
+[laura@fertilityavenue.co.uk](mailto:laura@fertilityavenue.co.uk)
+
+07974 146 624
+
+[www.fertilityavenue.co.uk](http://www.fertilityavenue.co.uk/)
+
+[fertility.avenue](https://www.instagram.com/fertility.avenue/) (Insta)
+
+[Fertility Avenue](https://www.facebook.com/FertilityAvenue) (FaceBook)
+
+<!--EndFragment-->

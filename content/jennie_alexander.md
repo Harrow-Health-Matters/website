@@ -16,7 +16,6 @@ I am HCPC registered and currently offer the following Occupational Therapy inte
 I am able to offer you appointments in the following locations: Harrow Greater London Bushey Watford Elstree
 
 Jennie can be contacted via her website or email:   \
-[www.jenniealexanderot.co.uk ](https://www.jenniealexanderot.co.uk/)\
-[enquiries@jenniealexanderot.co.uk](enquiries@jenniealexanderot.co.uk)
+[www.jenniealexanderot.co.uk ](https://www.jenniealexanderot.co.uk/)[](enquiries@jenniealexanderot.co.uk)
 
 <!--EndFragment-->

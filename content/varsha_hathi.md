@@ -40,5 +40,5 @@ Coaching
 
 Contact
 
-* Email – [Varsha@varshahathi.com](Varsha@varshahathi.com)
+* Email – [Varsha@varshahathi.com](mailto:Varsha@varshahathi.com)
 * Phone - [07742 516 020](<07742 516 020>)

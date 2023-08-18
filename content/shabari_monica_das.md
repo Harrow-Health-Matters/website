@@ -1,7 +1,7 @@
 ---
 title: Shabari Monica Das - Green Beauty Lifestyle Consultant
 image: img/shabari_monica_das.jpg
-description: Shabari Das is a Green Beauty Lifestyle Consultant.
+description: Shabari Das is a Green Beauty Lifestyle Consultant
 showonlyimage: false
 draft: false
 date: "2020"

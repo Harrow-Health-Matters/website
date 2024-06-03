@@ -1,5 +1,5 @@
 ---
-title: "Dominika Krawiek "
+title: Dominika Krawiec
 image: /img/dominika-krawiec.jpg
 description: Counsellor specializing in psychotherapy, CBT, bereavement,
   anxiety, depression, self-esteem, and life improvement

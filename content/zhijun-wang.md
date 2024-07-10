@@ -1,6 +1,6 @@
 ---
 title: Zhijun Wang
-image: /img/288986557_5522869651065024_2429112935425615481_n-1-.jpg
+image: /img/profile-photo.jpg
 description: "Tai Chi for Better Health Instructor "
 showonlyimage: false
 draft: false

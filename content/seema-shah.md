@@ -24,7 +24,7 @@ In her spare time, she loves to paint and spend quality time with her family, wh
 
 You can find Seema on her Instagram and LinkedIn. Both have information on holistic health, yoga, meditation, healthy recipes, motivation and mindset. Here are the links:
 
-1. Instagram.com/harmoniouswaytohealth
+1. https://www.instagram.com/harmoniouswaytohealth
 2. https://www.linkedin.com/in/seema-harmoniouswaytohealth
 
 <!--EndFragment-->
